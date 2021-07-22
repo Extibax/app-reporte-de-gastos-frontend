@@ -1,3 +1,14 @@
+## Para correr el codigo primero instala las dependencias:
+```
+yarn
+```
+## Despues ya se puede iniciar:
+```
+yarn start
+```
+El servidor del backend tiene que estar corriendo si se quiere la experiencia completa, lo encontrara en este repositorio:
+https://github.com/Extibax/app-reporte-de-gastos-backend
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
